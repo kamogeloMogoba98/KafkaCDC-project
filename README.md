@@ -467,25 +467,7 @@ Add your VS Code terminal screenshot below showing the producer detecting and pu
 
 The VS Code terminal shows the producer identifying the changes and producing the corresponding events to Kafka.
 
----
 
-## 4. Kafka Consumer — Processing the Events
-
-The Python consumer subscribes to the Kafka topic and receives the events produced by the producer.
-
-Add your consumer screenshot here:
-
-```markdown
-![Kafka Consumer - Processing Events](images/kafka-consumer-events.png)
-```
-
-**Screenshot:**
-
-![Kafka Consumer - Processing Events](terraform.png)
-
-The consumer processes the events and applies the changes to the downstream analytics table using a `MERGE` operation.
-
----
 
 ## 5. Analytics Result — 616 Transactions
 
