@@ -474,7 +474,7 @@ Source table       → 619 transactions
 Analytics table    → 616 transactions
 ```
 
-Add your analytics database screenshot showing **616 transactions** here:
+
 
 ```markdown
 ![Analytics Table - 616 Transactions](images/transaction.png)
