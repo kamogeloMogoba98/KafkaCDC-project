@@ -506,7 +506,7 @@ Add your analytics database screenshot showing **616 transactions** here:
 
 **Screenshot:**
 
-![Analytics Table - 616 Transactions](TransactionAnaiytics.png)
+![Analytics Table - 616 Transactions](TransactionAnalytics.png)
 
 The three-record difference represents the three transactions that were soft deleted in the source.
 
