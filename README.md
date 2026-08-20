@@ -1,6 +1,12 @@
 # Change Data Capture (CDC) with Kafka
 
+
+-----
+
 ![Kafka](Kafka.png)
+
+-----
+
 
 
 ## Overview
