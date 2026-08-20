@@ -397,7 +397,7 @@ Add your source database screenshot here:
 
 **Screenshot:**
 
-![Source Database - 619 Transactions](images/source-619.png)
+![Source Database - 619 Transactions](Sourcetable.png)
 
 The source table contains the original transaction records.
 
@@ -463,7 +463,7 @@ Add your VS Code terminal screenshot below showing the producer detecting and pu
 
 **Screenshot:**
 
-![Kafka Producer - Delete Events](images/kafka-delete-events.png)
+![Kafka Producer - Delete Events](terraform.png)
 
 The VS Code terminal shows the producer identifying the changes and producing the corresponding events to Kafka.
 
@@ -481,7 +481,7 @@ Add your consumer screenshot here:
 
 **Screenshot:**
 
-![Kafka Consumer - Processing Events](images/kafka-consumer-events.png)
+![Kafka Consumer - Processing Events](terraform.png)
 
 The consumer processes the events and applies the changes to the downstream analytics table using a `MERGE` operation.
 
@@ -501,12 +501,12 @@ Analytics table    → 616 transactions
 Add your analytics database screenshot showing **616 transactions** here:
 
 ```markdown
-![Analytics Table - 616 Transactions](images/analytics-616.png)
+![Analytics Table - 616 Transactions](images/transaction.png)
 ```
 
 **Screenshot:**
 
-![Analytics Table - 616 Transactions](images/analytics-616.png)
+![Analytics Table - 616 Transactions](TransactionAnaiytics.png)
 
 The three-record difference represents the three transactions that were soft deleted in the source.
 
