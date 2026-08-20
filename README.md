@@ -389,11 +389,7 @@ The following screenshots show the CDC flow and the resulting changes between th
 
 The source table initially contains **619 transactions**.
 
-Add your source database screenshot here:
 
-```markdown
-![Source Database - 619 Transactions](images/source-619.png)
-```
 
 **Screenshot:**
 
