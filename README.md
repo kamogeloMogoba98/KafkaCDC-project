@@ -704,47 +704,7 @@ terraform apply
 
 This provides a repeatable deployment process.
 
----
 
-# Project Structure
-
-```text
-cdc-kafka/
-│
-├── images/
-│   ├── source-619.png
-│   ├── kafka-delete-events.png
-│   ├── kafka-consumer-events.png
-│   └── analytics-616.png
-│
-├── terraform/
-│   ├── main.tf
-│   ├── variables.tf
-│   ├── outputs.tf
-│   └── ...
-│
-├── kafka/
-│   └── docker-compose.yml
-│
-├── producer/
-│   └── producer.py
-│
-├── consumer/
-│   └── consumer.py
-│
-├── sql/
-│   ├── create_tables.sql
-│   ├── source_transactions.sql
-│   └── aggregation.sql
-│
-├── scripts/
-│   └── ...
-│
-├── .gitignore
-└── README.md
-```
-
----
 
 # Technologies Used
 
