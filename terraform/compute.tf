@@ -4,7 +4,7 @@ resource "azurerm_linux_virtual_machine" "kafka_vm" {
   resource_group_name   = azurerm_resource_group.rg.name
   size                  = "Standard_D2s_v5" # Modern v5-generation SKU with active capacity
   admin_username        = "azureuser"
-  admin_password        = "P@ssw0rd12345!"
+  admin_password        = ""
   disable_password_authentication = false
   network_interface_ids = [azurerm_network_interface.nic.id]
 
