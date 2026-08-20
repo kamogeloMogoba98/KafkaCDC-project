@@ -1,5 +1,8 @@
 # Change Data Capture (CDC) with Kafka
 
+![Kafka](Kafka.png)
+
+
 ## Overview
 
 This repository demonstrates the principles of **Change Data Capture (CDC)** using **Azure, Terraform, a Linux Virtual Machine, Python, Apache Kafka, and SQL Server**.
