@@ -7,7 +7,7 @@ import pyodbc
 server = "kafka-demo-sql-server.database.windows.net"
 database = "TransactionAnalyticsDB"
 username = "sqladmin"
-password = "Easy#12345"  # Replace with your actual SQL admin password
+password = ""  # Replace with your actual SQL admin password
 driver = "{ODBC Driver 18 for SQL Server}"
 
 # Connection string
