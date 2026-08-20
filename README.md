@@ -451,8 +451,6 @@ The events are then published to the Kafka topic:
 financial-transactions-cdc
 ```
 
-Add your VS Code terminal screenshot below showing the producer detecting and publishing the events:
-
 ```markdown
 ![Kafka Producer - Delete Events](images/kafka-delete-events.png)
 ```
